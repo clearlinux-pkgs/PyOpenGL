@@ -6,7 +6,7 @@
 #
 Name     : PyOpenGL
 Version  : 3.1.0
-Release  : 7
+Release  : 8
 URL      : https://files.pythonhosted.org/packages/9c/1d/4544708aaa89f26c97cc09450bb333a23724a320923e74d73e028b3560f9/PyOpenGL-3.1.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/9c/1d/4544708aaa89f26c97cc09450bb333a23724a320923e74d73e028b3560f9/PyOpenGL-3.1.0.tar.gz
 Source1  : https://files.pythonhosted.org/packages/9c/1d/4544708aaa89f26c97cc09450bb333a23724a320923e74d73e028b3560f9/PyOpenGL-3.1.0.tar.gz.asc
@@ -43,7 +43,7 @@ python components for the PyOpenGL package.
 Summary: python3 components for the PyOpenGL package.
 Group: Default
 Requires: python3-core
-Provides: pypi(PyOpenGL)
+Provides: pypi(pyopengl)
 
 %description python3
 python3 components for the PyOpenGL package.
@@ -58,8 +58,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1583208245
-# -Werror is for werrorists
+export SOURCE_DATE_EPOCH=1583521074
 export GCC_IGNORE_WERROR=1
 export CFLAGS="$CFLAGS -fno-lto "
 export FCFLAGS="$CFLAGS -fno-lto "
