@@ -4,7 +4,7 @@
 #
 Name     : PyOpenGL
 Version  : 3.1.5
-Release  : 23
+Release  : 24
 URL      : https://files.pythonhosted.org/packages/b8/73/31c8177f3d236e9a5424f7267659c70ccea604dab0585bfcd55828397746/PyOpenGL-3.1.5.tar.gz
 Source0  : https://files.pythonhosted.org/packages/b8/73/31c8177f3d236e9a5424f7267659c70ccea604dab0585bfcd55828397746/PyOpenGL-3.1.5.tar.gz
 Summary  : Standard OpenGL bindings for Python
